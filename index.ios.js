@@ -4,7 +4,7 @@
  * @flow
  */
 
-// very important omment
+// very important comment
 import React, { Component } from 'react';
 import {
   AppRegistry,
